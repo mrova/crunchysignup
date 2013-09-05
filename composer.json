@@ -1,5 +1,5 @@
 {
-    "name": "crunchy/crunchy-signup",
+    "name": "mrova/crunchy-signup",
     "description": "Signup process for ZfcUser with email confirmation",
     "version": "0.0.1",
     "type": "library",
@@ -16,7 +16,7 @@
     ],
     "require": {
         "zendframework/zendframework": "2.*",
-        "zf-commons/zfc-user": "dev-master"
+        "mrova/zfc-user": "dev-master"
     },
     "suggest": {
     },
